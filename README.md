@@ -6,7 +6,7 @@ A simple, browser-based **Student Attendance Management System** built with pure
 
 ## 🚀 Live Demo
 
-Open `index.html` directly in any modern browser — no installation needed.
+Open `https://attendence-system-lakshya.netlify.app` directly in any modern browser — no installation needed.
 
 ---
 
